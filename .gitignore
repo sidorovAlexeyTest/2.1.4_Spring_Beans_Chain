@@ -4,6 +4,13 @@
 # Log file
 *.log
 
+#idea files
+.idea
+spring-types-of-wiring.iml
+
+#gitignore
+.gitignore
+
 # BlueJ files
 *.ctxt
 
